@@ -1,1 +1,1 @@
-My readme file for shell basics
+This file prints the absolute path of the current working directory
