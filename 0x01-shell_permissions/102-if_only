@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ id -n == "guillaume" ] then sudo chown betty hello fi
+if [ chown --reference=hello == "guillaume" ] then sudo chown betty hello fi
